@@ -28,6 +28,10 @@
      .example-sites {
     margin-left: 20px !important;
 }
+.example-sites{
+    position: relative;
+    right: 10px;
+}
     </style>
     <meta charset="utf-8">
     <title>Preseed Web Lab</title>
@@ -103,7 +107,15 @@
     left: 213px;
 }
 }
-
+@media only screen and (max-width: 600px){
+    #idea-list{
+      position: relative;
+      right: -7px;
+    }
+  }
+   #idea-list{
+      position: relative;
+      right: 10px;
     </style>
 </head>
 
@@ -129,8 +141,8 @@
                 <hr class="soften">
 
                 <p class="lead" style="font-size:48px">In the laboratory</p>
-                <p class="marketing-byline" style="color: grey;">These are the works that are cooking here. This is the
-                    food that keeps him going. But not for too long. Nishchal is wounded and in lack of fuel. <br><br>
+               <!-- <p class="marketing-byline" style="color: grey;">These are the works that are cooking here. This is the
+                    food that keeps him going. But not for too long. Nishchal is wounded and in lack of fuel. <br><br>-->
                   
 <!--"What's sad about having people in your life is that, you know you have them, but it feels like you
 don't."<br><br>
@@ -165,7 +177,7 @@ here I am, asking for help” - Nishchal.-->
                     <!-- start -->
                     <!-- model 1 -->
                     
-                    <div class="">
+                    <div class="list-chattodo">
                         <ul class="thumbnails example-sites" >
                             <li class="span4 prototyped">
                                 <a href="#Chattodo_Milaap_Fundraiser" data-toggle="modal"
@@ -383,7 +395,7 @@ here I am, asking for help” - Nishchal.-->
                         <h2>Entrepreneurship</h2>
                     </center><br>
                     <br><br><br><br><br>
-                    <ul class="thumbnails example-sites" style="position: relative;left: 10px;">
+                    <ul class="thumbnails example-sites" id="idea-list">
                         <li class="span3 prototyped">
                             <a href="#ideal" data-toggle="modal" class="thumbnail color-change">
                                 <h2 style="font-size:28px;">
