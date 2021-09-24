@@ -250,7 +250,7 @@ section.split .copy .content {
 }
 
 section.split .copy .content h2 {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+/*  border-bottom: 1px solid rgba(0, 0, 0, 0.05);*/
   font-size: 48px;
   line-height: 48px;
   color: rgba(0, 0, 0, 0.65);
