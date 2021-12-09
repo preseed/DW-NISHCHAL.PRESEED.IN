@@ -301,14 +301,14 @@ details[open] summary ~ * {
 details > summary::after {
   position: absolute;
   content: "+";
-      top: 21px;
-    left: 13px;
+      top: 18px;
+    left: 8px;
 }
 details > .iconbtn::after {
   position: absolute;
   content: "+";
-      top: 21px;
-    left: 13px;
+      top: 18px;
+    left: 8px;
 }
 details[open] > summary::after {
   position: absolute;
