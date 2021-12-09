@@ -313,7 +313,8 @@ details > .iconbtn::after {
 details[open] > summary::after {
   position: absolute;
   content: "-";
-  left: 20px;
+      top: 18px;
+    left: 8px;
 }
 details > summary::-webkit-details-marker {
   display: none;
