@@ -1,0 +1,48 @@
+</a>
+	     <a style="text-decoration: none; ;" href="https://www.instagram.com/nishchalkesarwani" target="_blank" title="">
+		     
+<!-- 		     https://www.instagram.com/p/Bin6sdcFglE/?igshid=1g0bdybw2u53o -->
+                    <i class="fa fa-fw fa-instagram fa-lg"></i>
+                </a>
+
+
+Line no 418
+
+
+
+
+
+Line No 425
+
+ <a style="text-decoration: none;" href="https://twitter.com/nishchal" target="_blank" title="Twitter">
+          <i class="fa fa-twitter fa-lg"></i>
+        </a>
+
+
+
+
+nishchal 616 <move to social page >
+ <span align="center">
+
+
+          <a href="http://about.me/nishchalkesarwani" target="_blank">
+            <img src="img/Nischal.preseed.in.png" alt="About.me link" style="display:inline; padding-right:10px;width: 38px;">
+          </a>
+          <a href="https://www.linkedin.com/in/nishchalkesarwani/" target="_blank" style="font-size:1.2em">
+            <img src="img/linkedin.png" alt="linkedin link" style="display:inline; padding-right:10px;">
+         
+          <a href="https://www.facebook.com/nishchalkesarwani" target="_blank">
+            <img src="img/facebook.png" alt="facebook link" style="display:inline; padding-right:10px;">
+          </a>
+          <a href="https://www.instagram.com/nishchalkesarwani" target="_blank">
+            <img src="img/Instagram_icon.png" alt="instagram link"
+              style="display:inline; padding-right:10px; width: 38px;">
+          </a>
+          <a href="https://medium.com/@Nishchal" target="_blank">
+            <img src="img/new.medium.png" alt="medium link" style="display:inline; padding-right:10px; width: 42px;">
+          </a>
+
+        </span>
+<!--<div><span> <a href="https://medium.com/the-preseed" target="_blank" style="font-size: 23px; font-weight: bold;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; position: relative;top: 35px; border-bottom: 1px; color: yellow;">  Preseed Essays.</a></span></div>-->
+
+      </div><br>
