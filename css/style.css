@@ -117,6 +117,9 @@
     position: relative !important;
     padding-top: 14px !important;
   }
+  .paragraph123{
+    width: 100% !important;
+  }
 }
 .text_cursive {
   font-style: oblique;
