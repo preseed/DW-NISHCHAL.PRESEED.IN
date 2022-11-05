@@ -130,6 +130,7 @@
   top: 0;
   position: absolute;
 }
+
 #cover_quote {
   padding: 5px;
   padding-top: 10px;
@@ -213,6 +214,33 @@ p.lead {
 .weblabiframe-height {
   overflow: hidden;
   height: 250vh;
+}
+@media only screen and (max-width:360px) {
+ .split .container{
+  width:100%;
+  margin-left: -6%;
+ }
+ .split .row{
+  margin-left: -30px;
+ }
+ .guruji-quote12{
+  background-color: #f5ab35;
+  color:white;
+  width:70%;
+  border-radius:8px;
+  height:auto;
+  padding:2px;
+  margin:5px 5px 5px 5px;
+}
+.guruji-quote12 p{
+   font-family: 'Open Sans', sans-serif;
+   font-weight: bold;
+   font-size: 2.1rem;
+   text-align: center !important;
+}
+}
+.split #small{
+  width:70%;
 }
 @media only screen and (max-width: 800px) {
   .weblabiframe-height {
@@ -371,4 +399,19 @@ details > summary::-webkit-details-marker {
 .dropdown-toggle:hover,
 ul li a:hover {
   color: #f8cb00;
+}
+.guruji-quote12{
+  background-color: #f5ab35;
+  color:white;
+  width:70%;
+  border-radius:8px;
+  height:auto;
+  padding:2px;
+  margin:5px 5px 5px 5px;
+}
+.guruji-quote12 p{
+   font-family: 'Open Sans', sans-serif;
+   font-weight: bold;
+   font-size: 3.1rem;
+   text-align: center !important;
 }
