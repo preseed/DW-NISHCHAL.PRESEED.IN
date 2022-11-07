@@ -119,6 +119,7 @@
   }
   .paragraph123{
     width: 100% !important;
+    margin-left:-40px;
   }
 }
 .text_cursive {
