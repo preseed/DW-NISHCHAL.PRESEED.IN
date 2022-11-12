@@ -131,7 +131,11 @@
   top: 0;
   position: absolute;
 }
-
+@media only screen and (device-width:360px;){
+  .content-impo h5{
+    width:80%;
+  }
+}
 #cover_quote {
   padding: 5px;
   padding-top: 10px;
