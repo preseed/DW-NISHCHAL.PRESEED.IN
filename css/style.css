@@ -123,22 +123,22 @@
   }
 }
 .content-impo ul li a img{
-  height:3.2rem;
+  height:1.6rem;
   width:auto;
 }
 .content-impo ul{
-  padding:10px;
+  padding:5px;
   
 }
 .content-impo ul li a{
-  font-size: 3.2rem;
+  font-size: 1.6rem;
   color:#fff;
   padding:10px;
   text-decoration: none;
   padding-left: 30px;
 }
 .content-impo ul li{
-  font-size: 3rem;
+  font-size: 2rem;
 }
 .content-impo ul li a:hover{
   color:red;
@@ -147,16 +147,13 @@
   align-items: left;
   text-align: left;
 }
-.content-impo1 ul li a img{
-  height:3.2rem;
-  width:auto;
-}
+
 .content-impo1 ul{
   padding:10px;
   
 }
 .content-impo1 ul li a{
-  font-size: 3.2rem;
+  font-size: 2.6rem;
   color:rgb(255, 255, 255);
   padding:10px;
   text-decoration: none;
