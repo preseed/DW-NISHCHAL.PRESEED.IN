@@ -146,6 +146,7 @@
 .content-impo{
   align-items: left;
   text-align: left;
+  position:relative;
 }
 
 .content-impo1 ul{
@@ -153,7 +154,7 @@
   
 }
 .content-impo1 ul li a{
-  font-size: 2.6rem;
+  font-size: 1.8rem;
   color:rgb(255, 255, 255);
   padding:10px;
   text-decoration: none;
@@ -169,6 +170,15 @@
   align-items: left;
   text-align: left;
   background:;
+}
+.content-impo .blissfull{
+  width:100%;
+  left:30%;
+}
+@media only screen and (max-width:360px;){
+   .content-impo .blissfull h5{
+      margin-top: 180px;
+   }
 }
 .text_cursive {
   font-style: oblique;
