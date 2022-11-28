@@ -304,6 +304,8 @@ section.split .copy .content blockquote {
 #intro::before {
   background: url("../images/intro.jpg") center center no-repeat;
   background-size: cover;
+  background-position-x: 90% ;
+  background-position-y: 30%;
 }
 
 #intro::after {
