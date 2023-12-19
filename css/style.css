@@ -415,7 +415,7 @@ details[open] > summary::after {
     left: 8px;
 }
 details > summary::-webkit-details-marker {
-  display: none;
+  display: none !important;
 }
 
 .plus-minus:after,
