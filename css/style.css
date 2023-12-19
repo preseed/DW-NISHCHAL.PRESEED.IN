@@ -398,19 +398,19 @@ details[open] summary ~ * {
 }
 details > summary::after {
   position: absolute;
-  content: "▼";
+  content: "►";
       top: 18px;
     left: 8px;
 }
 details > .iconbtn::after {
   position: absolute;
-  content: "▼";
+  content: "►";
       top: 18px;
     left: 8px;
 }
 details[open] > summary::after {
   position: absolute;
-  content: "►";
+  content: "▼";
       top: 18px;
     left: 8px;
 }
