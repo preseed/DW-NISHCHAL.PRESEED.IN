@@ -396,6 +396,7 @@ details[open] summary ~ * {
     margin-top: 0px;
   }
 }
+/*
 details > summary::after {
   position: absolute;
   content: "►";
@@ -414,6 +415,28 @@ details[open] > summary::after {
       top: 18px;
     left: 8px;
 }
+*/
+
+details > summary::after {
+  position: absolute;
+  content: "▼";
+      top: 18px;
+    left: 8px;
+}
+details > .iconbtn::after {
+  position: absolute;
+  content: "▼";
+      top: 18px;
+    left: 8px;
+}
+details[open] > summary::after {
+  position: absolute;
+  content: "▲";
+      top: 18px;
+    left: 8px;
+}
+
+
 details > summary::-webkit-details-marker {
   display: none !important;
 }
