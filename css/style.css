@@ -421,7 +421,7 @@ details > summary::after {
   position: absolute;
   content: "▼";
       top: 18px;
-    left: 8px;
+    left: 18px;
 }
 details > .iconbtn::after {
   position: absolute;
